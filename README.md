@@ -6,7 +6,7 @@ We are building an SPA that contains two pages:
    from an array of numbers returned from an API.
 
 Steps to follow:
-1. Clone the Repository - https://github.com/my-fun-projects/NumberGame
+1. Clone the Repository.
 2. Run the application.
 3. Rectify implementation of Routing in Navbar so that we have two links. First to navigate to Home Page and the second to go to Game Page. Please note that the app should be SPA.
 4. Call Number API when page loads (NumberPanel) and when the button on NumberPanel page is clicked.
